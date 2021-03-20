@@ -93,7 +93,7 @@ p {
 /* Title Image */
 
 .title-img {
-  width: 50%;
+  width: 40%;
   transform: rotate(15deg);
   position: absolute;
   bottom: -20%;
