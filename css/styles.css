@@ -41,7 +41,7 @@ p {
 /* Sections */
 
 .colored-section {
-  background-color: #FF4C68;
+  background-color: #10012c;
   color: #fff;
 }
 
@@ -100,6 +100,13 @@ p {
   right: 20%;
 }
 
+#press h4 {
+  color: #fff;
+}
+
+#press h6 {
+  color: #fff;
+}
 
 /* Features Section */
 #features {
@@ -117,19 +124,19 @@ p {
 
 
 .icon {
-  color: #EF8172;
+  color: #10012c;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color: #FF4C68;
+  color: #10012c;
 }
 
 
 /* Testimonial Section */
 
 #testimonials {
-  background-color: #EF8172;
+  background-color: #10012c;
   color: #fff;
 }
 
@@ -145,7 +152,7 @@ p {
 }
 
 #press {
-  background-color: #EF8172;
+  background-color: #10012c;
   padding-bottom: 3%;
 }
 
