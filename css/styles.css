@@ -77,12 +77,11 @@ p {
 .btn {
   margin: 0 10px 0 0;
 }
-
-.download-button {
-  margin: 5% 3% 5% 0;
+.btn-dark {
+    color: #10012c;
+    background-color: #f8f9fa;
+    border-color: #343a40;
 }
-
-
 /* Title Section */
 
 #title .container-fluid {
