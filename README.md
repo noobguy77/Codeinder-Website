@@ -7,4 +7,4 @@ A home page website which provides details of the application to the end user li
 # Tools Used
 The main framework used in building the Codeinder website is Bootstrap and its components like Carousel, Card, Buttons, Navbar etc. It also used HTML5, CSS3 and Google Fonts and Font Awesome.
 
-https://noobguy77.github.io/Codeinder-Website/#footer
+https://noobguy77.github.io/Codeinder-Website/
